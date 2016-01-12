@@ -1,0 +1,1 @@
+SoccerStars.Preloader = function (game) {};
